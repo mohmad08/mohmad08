@@ -2,8 +2,7 @@
 <img align="left" width="400" alt=""><br>
 Hi 👋 My name is Mohmad
 =======================
-Python Developer
-----------------
+
 I'm a python developer
 I started learning programming 5 years ago. First I took a course in web development and then switched to PHP. After a year and a half of inactivity, I started learning Python. While studying SQL at the same time. Having mastered the basics of Python, I started working on the Django framework.
 
