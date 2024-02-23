@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohmad
 =======================
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F42C&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&random=%D0%9B%D0%9E%D0%96%D0%AC&width=435&lines=Neural+network+development+student" alt="Typing SVG" /></a>
+Python Developer
 ----------------
 
 I started learning programming 5 years ago. First I took a course in web development and then switched to PHP. After a year and a half of inactivity, I started learning Python. While studying SQL at the same time. Having mastered the basics of Python, I started working on the Django framework.
