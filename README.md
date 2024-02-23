@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20I'm%20a%20Python,%20developer!&descAlignY=51&descAlign=62)
 <img align="left" width="400" alt=""><br>
 Hi 👋 My name is Mohmad
 =======================
 Python Developer
 ----------------
-
+I'm a python developer
 I started learning programming 5 years ago. First I took a course in web development and then switched to PHP. After a year and a half of inactivity, I started learning Python. While studying SQL at the same time. Having mastered the basics of Python, I started working on the Django framework.
 
 * 🌍  I'm based in Grozny, Chechen Republic
