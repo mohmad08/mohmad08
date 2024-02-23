@@ -9,7 +9,7 @@ I started learning programming 5 years ago. First I took a course in web develop
 * 🌍  I'm based in Grozny, Chechen Republic
 * ✉️  You can contact me at [https://t.me/Derr\_Dang](mailto:https://t.me/Derr_Dang)
 ----------------
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Mohmad)
+[![codewars](https://www.codewars.com/users/Mohmad/badges/large)](https://www.codewars.com/users/Mohmad)
 ### Skills
 
 <p align="left">
