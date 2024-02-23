@@ -44,6 +44,5 @@ I started learning programming 5 years ago. First I took a course in web develop
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
                     </picture>
                     </a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/mohmad08"><img src="https://github-readme-stats.vercel.app/api?username=mohmad08&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&show_icons=true" alt="mohmad08's GitHub stats" /></a><a
                       href="http://www.github.com/mohmad08"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=mohmad08&stroke=ffffff&background=181824&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/mohmad08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmad08&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
