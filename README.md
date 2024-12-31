@@ -3,7 +3,7 @@
 My name is Mohmad<p align="right">![](https://komarev.com/ghpvc/?username=your-github-mohmad08)</p>
 =======================
 
-I started learning programming 5 years ago. First I took a course in web development and then switched to PHP. After a year and a half of inactivity, I started learning Python. While studying SQL at the same time. Having mastered the basics of Python, I started working on the Django framework.
+I started learning programming 5 years ago. .
 
 * 🌍  I'm based in Grozny, Chechen Republic
 * ✉️  You can contact me at [https://t.me/Derr\_Dang](mailto:https://t.me/Derr_Dang)
